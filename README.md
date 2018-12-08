@@ -8,11 +8,11 @@
 
 ## 视频
 
-[视频见final.mp4](视频/final.mp4)
+[视频见final.mp4](final.mp4)
 
 ## 代码
 
-最终版本 [final_test/pre.cpp](final_test/pre.cpp)
+最终版本 [final/pre.cpp](final_test/pre.cpp)
 
 ## 项目地址
 [GitHub链接](https://github.com/VeteranDriver-NJU/Crazy-Racing-Car)
