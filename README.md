@@ -12,7 +12,7 @@
 
 ## 代码
 
-最终版本 [final/pre.cpp](final_test/pre.cpp)
+最终版本 [final/pre.cpp](final/pre.cpp)
 
 ## 项目地址
 [GitHub链接](https://github.com/VeteranDriver-NJU/Crazy-Racing-Car)
