@@ -1,2 +1,16 @@
-# Crazy-Racing-Car
-Final Contest 
+# 2018嵌入式小车决赛
+## 成员
+**161250096 潘羽**
+
+**161250105 乔鑫**
+
+**161250108 邱浩旻**
+
+## 视频
+[视频链接](final.mp4)
+
+## 代码
+最终版本 [pre.cpp](final_test/pre.cpp)
+
+## 项目地址
+[GitHub链接](https://github.com/VeteranDriver-NJU/Crazy-Racing-Car)
