@@ -106,7 +106,6 @@ int main()
         Mat result(imgROI.size(), CV_8U, Scalar(255));
         imgROI.copyTo(result);
         clog << lines.size() << endl;
-        GOD++;
         
         //Draw the lines and judge the slope
         int color = 50;
